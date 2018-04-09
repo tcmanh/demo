@@ -1,14 +1,47 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+       "id" : 1,
+      "image": "assets/book-cover-1.png",
+      "title": "Lập trình C++"
+   },
+   {
+       "id" : 2,
+      "image": "assets/book-cover-2.png",
+      "title": "Nodejs"
+   },
+   {
+       "id" : 3,
+      "image": "assets/book-cover-3.png",
+      "title": "Angular cơ bản"
+   },
+   {
+       "id" : 4,
+      "image": "assets/book-cover-4.png",
+      "title": "MongoDB toàn tập"
+   },
+   {
+       "id" : 5,
+      "image": "assets/book-cover-5.png",
+      "title": "Front-end cơ bản"
+   },
+   {
+       "id" : 6,
+      "image": "assets/book-cover-3.png",
+      "title": "Angular cơ bản"
+   },
+   {
+       "id" : 7,
+      "image": "assets/book-cover-4.png",
+      "title": "MongoDB toàn tập"
+   },
+   {
+       "id" : 8,
+      "image": "assets/book-cover-5.png",
+      "title": "Front-end cơ bản"
+   }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "ibook"
   }
 }
